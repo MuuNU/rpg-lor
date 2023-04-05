@@ -11,11 +11,14 @@
             "id": "77348e07d780974a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
+                "file": "RPG/Деревня.canvas",
+                "viewState": {
+                  "x": 5254.471296714985,
+                  "y": 1559.7402290575628,
+                  "zoom": 0.5657283312762802
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "RPG/Деревня.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test.md",
+                "file": "RPG/Деревня.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "RPG/Деревня.canvas"
               }
             }
           }
@@ -148,6 +151,10 @@
   },
   "active": "77348e07d780974a",
   "lastOpenFiles": [
+    "Нейроокситодофаминил-17 -.md",
+    "Anime/Список аниме к просмотру.md",
+    "RPG/Деревня.canvas",
+    "test.md",
     "Untitled.canvas",
     "2023-04-05.md",
     "Untitled",
@@ -172,12 +179,9 @@
     "RPG/Имя Урагири Йосуке.md",
     "RPG/Другой опыт Шикея.md",
     "RPG/Детство Йосуке.md",
-    "RPG/Деревня.canvas",
     "RPG/Ганкона Шикей.md",
-    "RPG/Untitled.md",
     "RPG/Pasted image 20230330203524.jpg",
     "RPG",
-    "Anime/Список аниме к просмотру.md",
     "Anime",
     "LICENSE"
   ]
