@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8008de23a8d04f5d",
+        "id": "378173c3ab5e5cd6",
         "type": "tabs",
         "children": [
           {
-            "id": "77348e07d780974a",
+            "id": "bd49a4e94355535b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "RPG/Деревня.canvas",
                 "viewState": {
-                  "x": 5254.471296714985,
-                  "y": 1559.7402290575628,
-                  "zoom": 0.5657283312762802
+                  "x": 5287.207355849592,
+                  "y": -93.30334294853199,
+                  "zoom": 0.16666666666666685
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Деревня.canvas",
+                "file": "RPG/Главный герой (Омори Потоцуки).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Деревня.canvas",
+                "file": "RPG/Главный герой (Омори Потоцуки).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Деревня.canvas"
+                "file": "RPG/Главный герой (Омори Потоцуки).md"
               }
             }
           }
@@ -136,8 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,11 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77348e07d780974a",
+  "active": "bd49a4e94355535b",
   "lastOpenFiles": [
-    "Нейроокситодофаминил-17 -.md",
-    "Anime/Список аниме к просмотру.md",
+    "RPG/Главный герой (Омори Потоцуки).md",
     "RPG/Деревня.canvas",
+    "Нейроокситофаминил-17.md",
+    "Anime/Список аниме к просмотру.md",
     "test.md",
     "Untitled.canvas",
     "2023-04-05.md",
@@ -179,7 +179,6 @@
     "RPG/Имя Урагири Йосуке.md",
     "RPG/Другой опыт Шикея.md",
     "RPG/Детство Йосуке.md",
-    "RPG/Ганкона Шикей.md",
     "RPG/Pasted image 20230330203524.jpg",
     "RPG",
     "Anime",
