@@ -15,9 +15,9 @@
               "state": {
                 "file": "RPG/Деревня.canvas",
                 "viewState": {
-                  "x": -6931.164982345757,
-                  "y": -3683.6259115455236,
-                  "zoom": -1.6666666666666667
+                  "x": -17995.324849147204,
+                  "y": 6261.944265323227,
+                  "zoom": -3.5833333333333335
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "пиво",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,10 +150,22 @@
   },
   "active": "bd49a4e94355535b",
   "lastOpenFiles": [
+    "RPG/Урагири Йосуке.md",
+    "RPG/Деревня.canvas",
+    "Карта.png",
+    "RPG/Увлечение Йосуке.md",
+    "RPG/Быт деревни.md",
+    "RPG/Традиции деревни.md",
+    "RPG/Настоящее время.md",
+    "RPG/История деревни.md",
+    "RPG/История Собуро и семьи Наито.md",
+    "RPG/Курьер.md",
+    "RPG/Библиотека.md",
+    "Anime/Список аниме к просмотру.md",
     "RPG/Катсуо.md",
-    "RPG/Собуро.md",
-    "RPG/Кийоко.md",
-    "RPG/Наэко.md",
+    "RPG/Собуро Матсуоко.md",
+    "RPG/Кийоко Хаттори.md",
+    "RPG/Наэко Ямамото.md",
     "RPG/Саэко Моримото.md",
     "RPG/Ёшико Кавада.md",
     "RPG/Садако Мори.md",
@@ -165,20 +177,9 @@
     "RPG/Кокоро Абэ.md",
     "RPG/Юмико Абэ.md",
     "RPG/Как в мельницу попадают реагенты.md",
-    "RPG/Увлечение Йосуке.md",
     "RPG/Жизнь Йосуке в деревне.md",
-    "RPG/Другой терракт Йосуке.md",
-    "RPG/Борьба с Ибуки.md",
-    "RPG/Главный герой (Омори Потоцуки).md",
-    "RPG/Деревня.canvas",
-    "AT-TN(b)SDO(m)-17 --- Aero Transmitter - Teststeron-Noradrenalin (blocator) Serotonin-Dophamin-Oxytocine (modulator).md",
-    "Anime/Список аниме к просмотру.md",
-    "test.md",
     "Untitled.canvas",
-    "2023-04-05.md",
     "Untitled",
-    "RPG/Что знает Мари.md",
-    "RPG/Юри Наито.md",
     "RPG/Pasted image 20230330203524.jpg",
     "RPG",
     "Anime",
