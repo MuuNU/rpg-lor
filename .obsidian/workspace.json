@@ -15,9 +15,9 @@
               "state": {
                 "file": "RPG/Деревня.canvas",
                 "viewState": {
-                  "x": 18303.9220738312,
-                  "y": -517.6629980123362,
-                  "zoom": -1.9166666666666672
+                  "x": -4960.394940603507,
+                  "y": -1588.97941030718,
+                  "zoom": -0.6666666666666667
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPG/Деревня.canvas",
+                "file": "Pasted image 20230429012935.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPG/Деревня.canvas",
+                "file": "Pasted image 20230429012935.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RPG/Деревня.canvas"
+                "file": "Pasted image 20230429012935.png"
               }
             }
           }
@@ -136,7 +136,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,15 +151,24 @@
   },
   "active": "bd49a4e94355535b",
   "lastOpenFiles": [
+    "Pasted image 20230429012935.png",
+    "Pasted image 20230429012529.png",
+    "Pasted image 20230429011715.png",
+    "Pasted image 20230429011131.png",
+    "Pasted image 20230429010947.png",
+    "Pasted image 20230429010515.png",
+    "Pasted image 20230429002825.png",
+    "Pasted image 20230428234940.png",
+    "Pasted image 20230428234707.png",
+    "Pasted image 20230428234642.png",
+    "Pasted image 20230428234411.png",
+    "RPG/Секрет Мари.md",
+    "RPG/ЗАМЕТКА.md",
+    "RPG/Третий день.md",
+    "RPG/Страшные истории.md",
+    "RPG/День второй.md",
     "RPG/История Юмико Абэ.md",
     "RPG/История Рёта Абэ.md",
-    "Pasted image 20230411231722.png",
-    "Pasted image 20230411231444.png",
-    "Pasted image 20230411231016.png",
-    "Pasted image 20230411230900.png",
-    "Pasted image 20230411230630.png",
-    "Pasted image 20230411230440.png",
-    "Pasted image 20230411230225.png",
     "RPG/История Собуро Матсуоко.md",
     "RPG/История Кийоко Хаттори.md",
     "RPG/История Наэко Ямамото.md",
@@ -173,21 +183,13 @@
     "RPG/День первый.md",
     "RPG/Урагири Йосуке.md",
     "RPG/Деревня.canvas",
-    "Карта.png",
     "RPG/Увлечение Йосуке.md",
     "RPG/Быт деревни.md",
     "RPG/Традиции деревни.md",
     "RPG/Настоящее время.md",
     "RPG/История деревни.md",
-    "RPG/История Собуро и семьи Наито.md",
-    "RPG/Курьер.md",
-    "RPG/Библиотека.md",
-    "Anime/Список аниме к просмотру.md",
-    "RPG/Катсуо.md",
-    "RPG/Собуро Матсуоко.md",
     "Untitled.canvas",
     "Untitled",
-    "RPG/Pasted image 20230330203524.jpg",
     "RPG",
     "Anime",
     "LICENSE"
