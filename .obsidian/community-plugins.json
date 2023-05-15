@@ -1,5 +1,7 @@
 [
   "link-nodes-in-canvas",
   "execute-code",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-excalidraw-plugin",
+  "better-word-count"
 ]
